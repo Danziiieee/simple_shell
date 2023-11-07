@@ -4,7 +4,7 @@
 /*
 * File name: shell.h
 * Author1: Dania Sciarappa
-* Author2: Obinyan Osemudiamen
+* Author2: Obinyan victory Osemudiamen
 */
 
 /*---LIBRARIES---*/
